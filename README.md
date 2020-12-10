@@ -1,6 +1,3 @@
-# sahil0705.github.io
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Sahil Sachin Donde</title>
