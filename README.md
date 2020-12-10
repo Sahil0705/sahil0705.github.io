@@ -20,7 +20,7 @@
 }
 body
 {
-	background-image: url('assets/images/original1.gif');
+	background-image: url('original1.gif');
 	background-repeat: no-repeat;
 	background-size: 100% 600px;
 	top:200px;
@@ -74,7 +74,7 @@ table#t4
 <table align='center' >
   <tr>
     <td align='center'>
-        <br id="h"><img src='assets/images/Sahil1.jpg' id='I'/></td>
+        <br id="h"><img src='Sahil1.jpg' id='I'/></td>
   </tr>
 </table>
 <h2 align='center' id='f' style="font-family:Comic Sans MS; font-size:45px; color:white;"><b>Sahil Donde</b></h2>
@@ -89,7 +89,7 @@ table#t4
           <div class="col-md-4">
             <div class="thumbnail">
               
-                <img src="assets/images/dev.jpg" alt="Lights" style="width:100%; height:300px">
+                <img src="dev.jpg" alt="Lights" style="width:100%; height:300px">
                 <div class="caption">
                   <p  align='center' style="font-size: 22px; font-family:Trebuchet MS; line-height:35px;">As a CS student, I have always been fond of building responsive websites with HTML, CSS, JavaScript and PHP using servers and have built a personal online e-commerce website.</p>
                 </div>
@@ -99,7 +99,7 @@ table#t4
           <div class="col-md-4">
             <div class="thumbnail">
               
-                <img src="assets/images/edit.jpg" alt="Nature" style="width:100%;  height:300px">
+                <img src="edit.jpg" alt="Nature" style="width:100%;  height:300px">
                 <div class="caption">
                   <p align='center'  style="font-size: 22px; font-family:Trebuchet MS; line-height:35px;">Being a tech student, I love editing code and like to see the resulting output on screen. Often in my freetime I work on my audio/video editing and image processing skills.</p>
                 </div>
@@ -109,7 +109,7 @@ table#t4
           <div class="col-md-4">
             <div class="thumbnail">
               
-                <img src="assets/images/cricket.jpg" alt="Fjords" style="width:100%; height:300px">
+                <img src="cricket.jpg" alt="Fjords" style="width:100%; height:300px">
                 <div class="caption">
                   <p align='center' style="font-size: 22px; font-family:Trebuchet MS; line-height:35px;">From my chidlhood, I am always passionate of playing sports especially cricket. Whenever I am tired from my daily routine I just go on the field and play cricket with my friends.</p>
                 </div>
@@ -144,21 +144,21 @@ table#t4
       <div style="overflow-x:auto;">
       <table align='center' bgcolor="white" width=100% id='t4'>
         <tr>
-          <td align='center' width=33%><img src='assets/images/Cpic1.jpg' id='zook' onmouseover="this.src='assets/images/Cpic1.png'" onmouseout="this.src='assets/images/Cpic1.jpg'" width=120px height=140px/><br><br><br><br></td>
-          <td align='center' width=33%><img src='assets/images/C++pic1.jpg' id='zook' onmouseover="this.src='assets/images/C++pic.png'" onmouseout="this.src='assets/images/C++pic1.jpg'"  width=160px height=160px/><br><br><br><br></td>
-          <td align='center' width=33%><img src='assets/images/Pythonpic1.png' id='zook' onmouseover="this.src='assets/images/Pythonpic.png'" onmouseout="this.src='assets/images/Pythonpic1.png'"  width=160px height=150px/><br><br><br><br></td>
+          <td align='center' width=33%><img src='Cpic1.jpg' id='zook' onmouseover="this.src='Cpic1.png'" onmouseout="this.src='Cpic1.jpg'" width=120px height=140px/><br><br><br><br></td>
+          <td align='center' width=33%><img src='C++pic1.jpg' id='zook' onmouseover="this.src='C++pic.png'" onmouseout="this.src='C++pic1.jpg'"  width=160px height=160px/><br><br><br><br></td>
+          <td align='center' width=33%><img src='Pythonpic1.png' id='zook' onmouseover="this.src='Pythonpic.png'" onmouseout="this.src='Pythonpic1.png'"  width=160px height=150px/><br><br><br><br></td>
         </tr>
       
           <tr>
-          <td align='center' width=33%><img src='assets/images/HTMLpic1.png' id='zook' onmouseover="this.src='assets/images/HTML.png'" onmouseout="this.src='assets/images/HTMLpic1.png'" width=150px height=150px/><br><br><br><br></td>
-          <td align='center' width=33%><img src='assets/images/CSS2pic.png' id='zook' onmouseover="this.src='assets/images/CSS.png'" onmouseout="this.src='assets/images/CSS2pic.png'" width=120px height=160px/><br><br><br><br></td>
-          <td align='center' width=33%><br><img src='assets/images/js2pic.png' id='zook' onmouseover="this.src='assets/images/jswrite.png'" onmouseout="this.src='assets/images/js2pic.png'" width=170px height=180px/><br><br><br><br></td>
+          <td align='center' width=33%><img src='HTMLpic1.png' id='zook' onmouseover="this.src='HTML.png'" onmouseout="this.src='HTMLpic1.png'" width=150px height=150px/><br><br><br><br></td>
+          <td align='center' width=33%><img src='CSS2pic.png' id='zook' onmouseover="this.src='CSS.png'" onmouseout="this.src='CSS2pic.png'" width=120px height=160px/><br><br><br><br></td>
+          <td align='center' width=33%><br><img src='js2pic.png' id='zook' onmouseover="this.src='jswrite.png'" onmouseout="this.src='js2pic.png'" width=170px height=180px/><br><br><br><br></td>
         </tr>
       
         <tr>
-          <td align='center' width=33%><img src='assets/images/php.png' id='zook' onmouseover="this.src='assets/images/W1.png'" onmouseout="this.src='assets/images/php.png'" width=145px height=100px/><br><br><br><br></td>
-          <td align='center' width=33%><img src='assets/images/MSpic2.jpg' id='zook' onmouseover="this.src='assets/images/MSwrite2.png'" onmouseout="this.src='assets/images/MSpic2.jpg'"  width=145px height=180px/><br><br><br><br></td>
-          <td align='center' width=33%><img src='assets/images/MSoffice1.png' id='zook' onmouseover="this.src='assets/images/W.png'" onmouseout="this.src='assets/images/MSoffice1.png'" width=150px height=120px /><br><br><br><br></td>
+          <td align='center' width=33%><img src='php.png' id='zook' onmouseover="this.src='W1.png'" onmouseout="this.src='php.png'" width=145px height=100px/><br><br><br><br></td>
+          <td align='center' width=33%><img src='MSpic2.jpg' id='zook' onmouseover="this.src='MSwrite2.png'" onmouseout="this.src='MSpic2.jpg'"  width=145px height=180px/><br><br><br><br></td>
+          <td align='center' width=33%><img src='MSoffice1.png' id='zook' onmouseover="this.src='W.png'" onmouseout="this.src='MSoffice1.png'" width=150px height=120px /><br><br><br><br></td>
         </tr>
       </table> 
       </div>
@@ -258,7 +258,7 @@ table#t4
       
       
       <div class="w3-display-container mySlides">
-        <p align='center'><img src="assets/images/onlineshopping.jpg" style="width:95%; height:350px"></p>
+        <p align='center'><img src="onlineshopping.jpg" style="width:95%; height:350px"></p>
         <div class="w3-display-topleft w3-large w3-container w3-padding-16 w3-black">
             <h1 align='center'>Online e-commerce shopping website</h1>
             <p align='center' style="font-size: 22px; font-family:Trebuchet MS;  line-height:35px;">I built a reponsive and user-friendly e-commerce shopping website which includes both front-end and back-end both<br><b>Concepts used in this code are:</b></br>
@@ -274,7 +274,7 @@ table#t4
       </div>
       
       <div class="w3-display-container mySlides">
-       <p align='center'><img src="assets/images/tictactoe.jpg" style="width:95%; height:350px"></p>
+       <p align='center'><img src="tictactoe.jpg" style="width:95%; height:350px"></p>
         <div class="w3-display-topright w3-large w3-container w3-padding-16 w3-black">
             <h1 align='center'>Tic-Tac-Toe</h1>
             <p align='center' style="font-size: 22px; font-family:Trebuchet MS;  line-height:35px;">I made a user friendly Tic-Tac-Toe game using C++, majorly using arrays concept.<br><b>Concepts used in this code are:</b><br>-1D Arrays - 2D Arrays - Generating random number - - Conditional Statements i.e. IF and ELSE
@@ -291,7 +291,7 @@ table#t4
       </div>
       
       <div class="w3-display-container mySlides">
-        <p align='center'><img src="assets/images/snake.jpg" style="width:95%; height:350px;"></p>
+        <p align='center'><img src="snake.jpg" style="width:95%; height:350px;"></p>
         <div class="w3-display-middle w3-large w3-container w3-padding-16 w3-black">
             <h1 align='center'>Snakes & Ladders</h1>
             <p align='center' style="font-size: 22px; font-family:Trebuchet MS;  line-height:35px;">I wrote a python program to play text-based snake and ladder game in the terminal.<br><b>Concepts used in this code are:</b><br>
@@ -362,15 +362,15 @@ table#t4
 <table align='center' width=100% style="background-color: white;">
 	<tr><td align='center' colspan=2><b><h2 align='center' style="font-size:40px; font-family:Times-Italic;"><i><b>Contact Details</b></i></h2></b><br></td></tr>
 	<tr>
-		<td align='right'><img src='assets/images/gmail.jpg' width=36px height=30px/>&nbsp;&nbsp;<br></td>
+		<td align='right'><img src='gmail.jpg' width=36px height=30px/>&nbsp;&nbsp;<br></td>
 		<td><h2 style="font-size: 24px;"> &nbsp;&nbsp;sahildonde7@gmail.com</h2></td>
 	</tr>
 	<tr>
-		<td align='right'><img src='assets/images/linkedin1.jpg' width=40px height=35px/>&nbsp;&nbsp;<br></td>
+		<td align='right'><img src='linkedin1.jpg' width=40px height=35px/>&nbsp;&nbsp;<br></td>
 		<td><h2 style="font-size: 24px;"> &nbsp;&nbsp;www.linkedin.com/in/sahil-donde-b788a4913</h2></td>
 	</tr>
 	<tr>
-		<td align='right'><img src='assets/images/insta.jpg' width=40px height=35px/>&nbsp;&nbsp;<br><br><br></td>
+		<td align='right'><img src='insta.jpg' width=40px height=35px/>&nbsp;&nbsp;<br><br><br></td>
 		<td><h2 style="font-size: 24px;"> &nbsp;&nbsp;sahil_donde_751</h2><br><br></td>
 	</tr>
 	<tr><td></td></tr>
