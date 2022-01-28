@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "gfdg",
+      "username": "hgfjghjhg",
+      "email": "jhjhkhuk",
+      "phone": "jk",
+      "id": 1
+    },
+    {
+      "name": "adfds",
+      "username": "sdfsdf",
+      "email": "sdfsdfee",
+      "phone": "dfsdfs",
+      "id": 2
+    },
+    {
+      "name": "dfgfdg",
+      "username": "fgdfg",
+      "email": "gdfgd",
+      "phone": "fgdfgdf",
+      "id": 3
+    },
+    {
+      "name": "etteer",
+      "username": "tertert4444",
+      "email": "er",
+      "phone": "erter",
+      "id": 4
+    }
+  ]
+}
